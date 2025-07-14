@@ -11,7 +11,7 @@ Studying at Busan Software Meister High School (March 4, 2025 – Present)
 
 <div align="center">
 
-<h2>📖 Tech Stack 🤍</h2>
+<h2>📖 Learning 🤍</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C-7A9CC6?style=for-the-badge&logo=c&logoColor=white" alt="C" />
