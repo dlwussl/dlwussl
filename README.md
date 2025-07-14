@@ -3,8 +3,7 @@
 ## 작은 걸음으로 큰 꿈을 향해 나아가는 김주연입니다.
 Studying at Busan Software Meister High School (March 4, 2025 – Present)
 
-
-
+<br>
 
 <div align="center">
 
