@@ -1,3 +1,12 @@
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dlwussl&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/dlwussl"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ADD8E6&height=200&section=footer&text=kimjooyeon🤍&fontSize=70&animation=fadeIn)
 
 <div align="center">
