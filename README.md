@@ -5,13 +5,6 @@
     width="600"
     height="120"
   />
-</a>
-    <img
-    src="https://render.gitanimals.org/lines/dlwussl"
-    width="600"
-    height="120"
-  />
-</a>
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ADD8E6&height=200&section=footer&text=kimjooyeon🤍&fontSize=70&animation=fadeIn)
 
